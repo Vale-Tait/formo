@@ -1,0 +1,9 @@
+.content {
+  margin-top: 3rem;
+}
+
+@media (max-width: 768px) {
+  .content {
+    margin-top: 0;
+  }
+}

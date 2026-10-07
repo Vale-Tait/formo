@@ -1,0 +1,29 @@
+.card {
+  position: relative;
+  width: 100%;
+  margin-bottom: 3rem;
+}
+
+.btn {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  text-decoration: none;
+  border: none;
+  width: 10rem;
+  height: 2rem;
+
+  cursor: pointer;
+}
+
+.cover {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cover img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">FORMO — curved F monogram</title>
+  <rect width="64" height="64" rx="14" fill="#111111" />
+  <path d="M18 48V16H34A16 16 0 0 1 50 32H42A8 8 0 0 0 34 24H26V32H36V40H26V48Z" fill="#F7F7F5" />
+</svg>
